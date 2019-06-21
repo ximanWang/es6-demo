@@ -1,5 +1,5 @@
 {
-  "name": "es6-webpack",
+  "name": "es6-demo",
   "version": "1.0.0",
   "description": "es6 webpack init project",
   "main": "index.js",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cucygh/es6-webpack.git"
+    "url": "git+https://github.com/cucygh/es6-demo.git"
   },
-  "author": "",
+  "author": "Ida",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cucygh/es6-webpack/issues"
+    "url": "https://github.com/cucygh/es6-demo/issues"
   },
   "eslintConfig": {
     "root": true,
