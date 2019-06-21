@@ -1,23 +1,5 @@
-## es6-webpack
+## es6 demos
 
-### 安装
+> some demos using es6
 
-首先下载源码
-
-```shell
-git clone https://github.com/cucygh/es6-webpack.git
-```
-
-然后安装
-
-```shell
-npm i
-npm i webpack -g
-npm i webpack-dev-server -g
-```
-
-### 运行
-
-```shell
-npm start
-```
+> Some common algorithm using es6 under the algorithm folder
