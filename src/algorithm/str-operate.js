@@ -1,7 +1,6 @@
 /**
  * Js counts the letters/Numbers that appear most frequently in a string
  */
-
  getFrequency = str => {
 
     let strArry = [... str];
@@ -24,6 +23,15 @@
     return 'maxValue = ' + maxValue +', maxNum ='  + maxNum;
  }
 
- 
-
  console.log(getFrequency('1120000023334545667kkliiiihyu'));
+
+ /**
+  * reverse the str
+  */
+reverseStr = str => {
+
+    let array = [... str];
+    return array.reverse().join("");
+}
+
+console.log(reverseStr('abc def'));
